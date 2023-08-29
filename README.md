@@ -1,5 +1,5 @@
 # Parking_management_system
-This is a project based on Parking ManagementSystem. The program helps us to enter, display or update the details of vehicles parking records. Moreover, and most importantly, the program helps us to know the present status of a parking detail, vehicle detail etc. It includes various functions to perform the above mentioned tasks.
+This is a project based on Parking Management System. The program helps us to enter, display or update the details of vehicles parking records. Moreover, and most importantly, the program helps us to know the present status of a parking detail, vehicle detail etc. It includes various functions to perform the above mentioned tasks.
 
 OUTPUTS:
 
